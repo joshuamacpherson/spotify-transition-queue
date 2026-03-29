@@ -18,14 +18,14 @@ queued in order.
    git clone https://github.com/joshuamacpherson/spotify-transition-queue
 
 2. Create a Spotify Developer app at https://developer.spotify.com/dashboard
-   - Set the redirect URI to `http://localhost:8888/callback`
+   - Set the redirect URI to `https://127.0.0.1:8888/callback`
    - Copy your Client ID and Client Secret
 
 3. Create a `.env` file in the root directory based on `.env.example`:
 
    SPOTIPY_CLIENT_ID=your_client_id
    SPOTIPY_CLIENT_SECRET=your_client_secret
-   SPOTIPY_REDIRECT_URI=http://localhost:8888/callback
+   SPOTIPY_REDIRECT_URI=https://127.0.0.1:8888/callback
 
 4. Run `setup.bat` to create the virtual environment and build the executable:
 

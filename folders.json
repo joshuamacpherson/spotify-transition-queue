@@ -1,0 +1,73 @@
+{
+  "playlists": [
+    "spotify:playlist:3A0nCqrLr2DNRDP1SSJRLH"
+  ],
+  "allow_liked_songs": true,
+  "folders": [
+    {
+      "name": "sloppy joe",
+      "tracks": [
+        {
+          "id": "3nZiDR3c1X9N76uMLmvPzC",
+          "name": "Sloppy Joe",
+          "artist": "slayr"
+        },
+        {
+          "id": "2UtAlmxYFkebHWzh3D2y9Z",
+          "name": "Never Go Down",
+          "artist": "slayr"
+        },
+        {
+          "id": "6t04MT7FO1qTsEwcE3EnPa",
+          "name": "Wipe Yo Nose",
+          "artist": "slayr"
+        }
+      ]
+    },
+    {
+      "name": "daytona",
+      "tracks": [
+        {
+          "id": "1z8YIll8YL4H0HqWH6MRH8",
+          "name": "Daytona",
+          "artist": "slayr"
+        },
+        {
+          "id": "3F1ostPsVmNFzFNDfPj7ua",
+          "name": "Toxic",
+          "artist": "slayr"
+        },
+        {
+          "id": "5YQ34RKhPrJzojv7LmbekW",
+          "name": "Eyesight",
+          "artist": "slayr"
+        }
+      ]
+    },
+    {
+      "name": "glamour westwood",
+      "tracks": [
+        {
+          "id": "1sRSrhgUBQMJsVoXPOsDGc",
+          "name": "What I Do",
+          "artist": "Westwood"
+        },
+        {
+          "id": "6aUOpslxWMdRqqAGXQ7Tmg",
+          "name": "Overtime",
+          "artist": "Westwood"
+        },
+        {
+          "id": "2GZ43TYGBV2g6yfiB7Y6C8",
+          "name": "Found Me",
+          "artist": "Westwood"
+        },
+        {
+          "id": "3d5RMvkgeycda5UktBqIAV",
+          "name": "Get There",
+          "artist": "Westwood"
+        }
+      ]
+    }
+  ]
+}

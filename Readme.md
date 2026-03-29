@@ -1,8 +1,10 @@
-# Spotify Shuffle Queue Fix
+# Spotify Shuffle Transition Queue
 
 When listening to songs on shuffle in spotify, sometimes certain songs transition into other songs, and that gets ruined with shuffle. With this, group the 2 songs that transition together, and whenever the first song queues, the second one is automatically added to the queue.
 
 **requires your own api key secret and callback all from spotify developer app!
+
+**requires your playlist to be on shuffle
 
 Runs in the tray, click Start or Stop Listening to disable/enable it
 
